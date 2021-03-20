@@ -13,4 +13,4 @@ Pasajeros:
 3. Bus: +16 
 
 # UML
-![UML Class Diagram](https://github.com/edcab/designpatter-factorymethod-golang/docs/blob/master/uml.svg?raw=true)
+![UML Class Diagram](https://github.com/edcab/designpatter-factorymethod-golang/blob/master/docs/uml.svg?raw=true)
